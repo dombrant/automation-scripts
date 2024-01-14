@@ -1,6 +1,6 @@
 # Promote User to Admin
 
-This is a PowerShell script from Aaron that promotes a user to an admin on an Azure AD-joined machine. This works even if the user has never logged into the machine before.
+This is a PowerShell script that promotes a user to an admin on an Azure AD-joined machine.
 
 ## Instructions
 
