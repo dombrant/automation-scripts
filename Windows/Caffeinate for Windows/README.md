@@ -1,3 +1,3 @@
 # Caffeinate for Windows
 
-This is a PowerShell script for Windows meant to mimick the `caffeinate -d` command in macOS. The code is taken from [Den Delimarsky's blog](https://den.dev/blog/caffeinate-windows/).
+This is a PowerShell script for Windows meant to mimick the `caffeinate -d` command in macOS. The code is taken from [this post on dev.to](https://dev.to/terminalpuncher/preventing-lock-screen-timeout-when-idle-using-powershell-1bhc).
