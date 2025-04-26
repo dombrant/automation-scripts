@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 # Use the built in command to list all installed updates (macOS updates, rapid security response updates, app updates, etc.)
 # Source: https://www.macosadventures.com/2023/03/01/how-to-identify-macos-update-history

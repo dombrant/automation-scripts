@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 # First half of this line runs a built in command that lists a few attributes about the current system
 # Second half of this line uses `awk` to grab just the macOS version number and the rapid security response version number

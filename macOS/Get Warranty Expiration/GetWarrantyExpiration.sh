@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 # Use the `date` command to convert the output of the defaults command from epoch to human-readable
 # Here the `defaults`` command is reading the "coverageEndDate" value in a plist file that contains the device's warranty expiration
